@@ -62,8 +62,8 @@ Includes Terraform scripts for infrastructure as code (IaC).
 1. Clone this repository to your local system:
 
    ```bash
-   git clone <repository-url>
-   cd devops-workshop
+   git clone  https://github.com/sofoniasm/DevOps_Workshop_installation_setup.git
+   cd DevOps_Workshop_installation_setup
    ```
 
 2. Navigate to the desired directory and follow the setup instructions provided above.
@@ -79,7 +79,7 @@ Includes Terraform scripts for infrastructure as code (IaC).
 
 ## Support
 
-For any issues or questions, please reach out via the repository's issue tracker or contact [support@example.com](mailto\:support@example.com).
+For any issues or questions, please reach out via the repository's issue tracker or contact [sofoniasmengistu37@gmail.com).
 
 Happy learning and building!
 
